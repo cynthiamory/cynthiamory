@@ -1,7 +1,7 @@
 
 <p align="center">
   <!-- Typing SVG CynthiaMory -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=22F7CE&center=true&vCenter=true&width=435&lines=My+Name+is+Cynthia+Mory;Full-Stack+Web+%26+App+Developer;Intermediate+UX%2FUI+Designer;Wanna+buy+me+a+coffee%3F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=24F7DC&width=435&lines=My+name+is+Cynthia+Mory;Full+Stack+Web+and+App+Developer;Intermediate+UX%2FUI+Designer;Always+learning+something+new;Wanna+buy+me+a+coffee%3F" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social icons section -->
